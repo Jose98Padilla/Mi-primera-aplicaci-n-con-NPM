@@ -1,0 +1,23 @@
+{
+  "name": "package_manager",
+  "version": "1.0.0",
+  "description": "hola",
+  "main": "app.js",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "gulp": "^4.0.2",
+    "log4js": "^5.1.0",
+    "mocha": "^6.2.1"
+  },
+  "devDependencies": {
+    "gulp-cli": "^2.2.0",
+    "gulp-eslint": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "supervisor app.js"
+  },
+  "author": "Jaime",
+  "license": "ISC"
+}
