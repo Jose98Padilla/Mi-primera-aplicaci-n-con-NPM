@@ -6,7 +6,7 @@
   "dependencies": {
     "eslint": "^6.5.1",
     "gulp": "^4.0.2",
-    "log4js": "^5.1.0",
+    "log4js": "^6.4.0",
     "mocha": "^6.2.1"
   },
   "devDependencies": {
